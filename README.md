@@ -1,1 +1,1 @@
-# learning-german
+# Learning German With AI
